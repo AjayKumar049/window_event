@@ -1,0 +1,61 @@
+body{
+    background-color: aqua;
+}
+button{
+    margin-left: 20px;
+}
+@media screen and (max-width:1200px) {
+    body{
+        background-color: aqua;
+    }
+    
+}
+@media screen and (max-width:1140px) {
+    body{
+        background-color: whitesmoke;
+    }
+    
+}
+@media screen and (max-width:920px) {
+    body{
+        background-color: bisque;
+    }
+    
+}
+@media screen and (max-width:800px) {
+    body{
+        background-color: blanchedalmond;
+    }
+    
+}
+@media screen and (max-width:700px) {
+    body{
+        background-color: navajowhite;
+    }
+    
+}
+@media screen and (max-width:600px) {
+    body{
+        background-color: rgb(196, 255, 248);
+    }
+    
+}
+@media screen and (max-width:540px) {
+    body{
+        background-color: rgb(255, 196, 228);
+    }
+    
+    
+}
+@media screen and (max-width:480px) {
+    body{
+        background-color: rgb(196, 246, 255);
+    }
+    p{
+        width: fit-content;
+    }
+    
+}
+
+
+
